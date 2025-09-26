@@ -26,7 +26,7 @@ body{
 }
 
 h1{
-    color:rgb(185, 247, 144)
+    color:rgb(98, 161, 250)
 }
 
 
@@ -34,7 +34,7 @@ button{
     padding: 10px 20px;
     font-size: 16px;
     color: white;
-    background-color: rgb(156, 203, 132);
+    background-color: rgb(62, 165, 249);
     border: none;
     border-radius: 5px;
     cursor: pointer;
